@@ -88,4 +88,19 @@ section h2{
   background-color: #2E3532;
   padding: 40px 0;
   color: white;
+  text-align: center;
+}
+
+.contact li {
+  display: inline;
+  font-size: 24px;
+  padding-right: 76px;
+}
+
+.contact p{
+  padding-top: 20px;
+}
+
+.contact ul{
+  padding-top: 20px;
 }
