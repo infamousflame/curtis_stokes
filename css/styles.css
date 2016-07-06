@@ -104,3 +104,7 @@ section h2{
 .contact ul{
   padding-top: 20px;
 }
+
+.works .col-md-4{
+  margin-bottom: 30px;
+}
